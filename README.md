@@ -21,7 +21,7 @@ A simple, fast, dependency-free **multithreaded TCP port scanner** written in Py
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/pyportscan.git
+git clone https://github.com/Killevo/pyportscan.git
 cd pyportscan
 ```
 
